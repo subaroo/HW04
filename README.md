@@ -18,8 +18,8 @@
 ####[Basic Python Exercises][Google:BPE]
 + HW04_string2.py
 
-###[Learn Python The Hard Way][LPTHW-32]
-####Exercise 32: Loops and Lists
+###Learn Python The Hard Way
+####[Exercise 32: Loops and Lists][LPTHW-32]
 + nothing to submit
 
 <!-- Links -->
